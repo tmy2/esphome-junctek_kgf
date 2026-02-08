@@ -53,8 +53,8 @@ esp32:
     type: arduino
 
 uart:
-  tx_pin: TX #26
-  rx_pin: RX #27
+  tx_pin: TX #43
+  rx_pin: RX #44
   baud_rate: 115200
 
 
